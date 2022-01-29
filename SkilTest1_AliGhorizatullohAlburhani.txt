@@ -1,0 +1,4 @@
+Nama 	: Ali Ghorizatulloh Alburhani
+Umur 	: 26 Tahun
+Stack 	: Backend
+Bahasa Pemrograman : Java
